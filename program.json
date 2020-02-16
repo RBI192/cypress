@@ -1,0 +1,18 @@
+{
+  "id": "1547cc19-50b9-11ea-96c2-5057d25f6201",
+  "access_token": "eyJhbGciOiJIUzI1NiJ9.eyJzdCI6InByb2dyYW0iLCJzdWIiOiIyIiwiaXAiOiIxMC4wLjEzMS4xOTQiLCJpc3MiOiJ3aCIsInNpZCI6IjE1NDdjYzE5LTUwYjktMTFlYS05NmMyLTUwNTdkMjVmNjIwMSIsInVuaSI6IndoLXd2Iiwib3B0Ijo0LCJuYmYiOjE1ODE4NTY2NDQsInJscyI6IiIsInNuIjoid2Vic2l0ZSIsImV4cCI6MTU4MTg1NzU0NCwiaWF0IjoxNTgxODU2NjQ0LCJqdGkiOiI4MzBiNzZhOC04OTc5LTQ1ODYtYjIyYy1hNDJhOGI2ZGFlYWMifQ.KMWtzi7hkj2lz7iASW3uUOIlxR0ELNoUCa6rZR2gpEM",
+  "token_type": "bearer",
+  "data": {},
+  "universe": "wh-wv",
+  "accountId": "2",
+  "accountName": "website",
+  "accountType": "program",
+  "roles": [],
+  "expires": "2020-02-16T12:52:24.442Z",
+  "createdAt": "2020-02-16T12:37:24.442Z",
+  "startsAt": "2020-02-16T12:37:24.442Z",
+  "ip": "10.0.131.194",
+  "killable": false,
+  "extendableToken": false,
+  "concurrent": true
+}

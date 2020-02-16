@@ -1,0 +1,29 @@
+{
+  "email": "floy.ger3ome@mail3460zenith.com",
+  "surname": "Gedsorginia",
+  "firstName": "Qsueenie",
+  "passwordChangedAt": null,
+  "roles": [
+    "trader"
+  ],
+  "status": "active",
+  "passwordResetToken": null,
+  "type": "staff",
+  "oddsFormat": "american",
+  "failedLoginAttempts": 0,
+  "jobTitle": "trader",
+  "phone": null,
+  "id": "7",
+  "universe": "wh-test",
+  "name": "Qsueenie Gedsorginia",
+  "cashOutEnabled": true,
+  "url": "http://eks-env14.eks.whbettingengine.com/accounts/wh-test/staff/7",
+  "passwordResetTokenUrl": "http://eks-env14.eks.whbettingengine.com/accounts/wh-test/staff/password-reset-token",
+  "resetPasswordUrl": "http://eks-env14.eks.whbettingengine.com/accounts/wh-test/staff/reset-password",
+  "walletUrl": "http://eks-env14.eks.whbettingengine.com/wallets/wh-test/7",
+  "cashOutUrl": "http://eks-env14.eks.whbettingengine.com/accounts/wh-test/staff/7/cash-out",
+  "transactionUrl": "http://eks-env14.eks.whbettingengine.com/transactions/wh-test/7",
+  "assetFlowsUrl": "http://eks-env14.eks.whbettingengine.com/asset-flows/wh-test/7",
+  "statementsUrl": "http://eks-env14.eks.whbettingengine.com/statements/wh-test/7",
+  "revision": 0
+}

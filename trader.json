@@ -1,0 +1,29 @@
+{
+  "email": "sdfs@asdas.md",
+  "surname": "Gedsorginia",
+  "firstName": "Qsueenie",
+  "passwordChangedAt": null,
+  "roles": [
+    "trader"
+  ],
+  "status": "active",
+  "passwordResetToken": null,
+  "type": "staff",
+  "oddsFormat": "american",
+  "failedLoginAttempts": 0,
+  "jobTitle": "trader",
+  "phone": null,
+  "id": "2",
+  "universe": "wh-central",
+  "name": "Qsueenie Gedsorginia",
+  "cashOutEnabled": true,
+  "url": "http://central.eks-env13.eks.whbettingengine.com/accounts/wh-central/staff/2",
+  "passwordResetTokenUrl": "http://central.eks-env13.eks.whbettingengine.com/accounts/wh-central/staff/password-reset-token",
+  "resetPasswordUrl": "http://central.eks-env13.eks.whbettingengine.com/accounts/wh-central/staff/reset-password",
+  "walletUrl": "http://central.eks-env13.eks.whbettingengine.com/wallets/wh-central/2",
+  "cashOutUrl": "http://central.eks-env13.eks.whbettingengine.com/accounts/wh-central/staff/2/cash-out",
+  "transactionUrl": "http://central.eks-env13.eks.whbettingengine.com/transactions/wh-central/2",
+  "assetFlowsUrl": "http://central.eks-env13.eks.whbettingengine.com/asset-flows/wh-central/2",
+  "statementsUrl": "http://central.eks-env13.eks.whbettingengine.com/statements/wh-central/2",
+  "revision": 0
+}

@@ -1,0 +1,13 @@
+{
+  "projectId": "p15tjz",
+  "baseUrl": "http://wh-wv.backoffice.eks-env13.eks.whbettingengine.com/",
+  "pageLoadTimeout": 100000,
+  "defaultCommandTimeout": 5000,
+  "execTimeout": 5000,
+  "video": true,
+  "videoCompression": 32,
+  "videoUploadOnPasses": true,
+  "videosFolder": "cypress/videos",
+  "viewportHeight": 660,
+  "viewportWidth": 1000
+}
