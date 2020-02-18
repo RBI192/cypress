@@ -18,6 +18,9 @@ import './commands'
 import './util/randomizer'
 import './dateCreate/account/createStaffAccount'
 import './dateCreate/account/loginStaff'
+import './dateCreate/trading/competitionCreate'
+import './dateCreate/trading/eventCreate'
+import './dateCreate/trading/eventFullCreateApi'
 
 
 // Alternatively you can use CommonJS syntax:

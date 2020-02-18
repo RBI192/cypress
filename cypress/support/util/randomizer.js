@@ -8,6 +8,13 @@ function generate_random_string (string_length){
      return random_string
    }
 
+Cypress.Commands.add('name',()=>{
+    let string = generate_random_string(10)
+    let name = string + "Competition"
+    return name
+} )
+
+
 Cypress.Commands.add('email', () => {
     
     let string = generate_random_string(10)

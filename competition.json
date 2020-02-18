@@ -1,0 +1,51 @@
+{
+  "id": "5f91ece0-5258-11ea-9b66-1b05f6452b46",
+  "name": "cevasda",
+  "universe": "wh-wv",
+  "sport": {
+    "id": "football",
+    "name": "Soccer",
+    "displayOrder": 0,
+    "url": "http://wh-wv.eks-env12.eks.whbettingengine.com/operator-sports/wh-wv/football"
+  },
+  "platformObject": {
+    "id": "5f91ece0-5258-11ea-9b66-1b05f6452b46",
+    "name": "cevasda"
+  },
+  "feedResponsibilities": [],
+  "tags": {
+    "weekend-soccer-coupon": [
+      "no"
+    ],
+    "popular": [
+      "no"
+    ],
+    "country": [
+      "PL",
+      "GB",
+      "GB-WLS"
+    ],
+    "hightlights": [
+      "no"
+    ],
+    "telebet-quicklink": [
+      "no"
+    ],
+    "region": [
+      "europe"
+    ]
+  },
+  "url": "http://wh-wv.eks-env12.eks.whbettingengine.com/operator-competitions/wh-wv/5f91ece0-5258-11ea-9b66-1b05f6452b46",
+  "eventsUrl": "http://wh-wv.eks-env12.eks.whbettingengine.com/operator-events/wh-wv",
+  "grade": {
+    "id": "351369596",
+    "name": "default",
+    "url": "http://wh-wv.eks-env12.eks.whbettingengine.com/grades/wh-wv/football/351369596"
+  },
+  "updatedAt": "2020-02-18T14:10:10.229Z",
+  "createdAt": "2020-02-18T14:10:10.229Z",
+  "displayOrder": 0,
+  "active": true,
+  "display": true,
+  "autoTakeDown": true
+}

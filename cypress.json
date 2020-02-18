@@ -1,5 +1,9 @@
 {
   "projectId": "p15tjz",
+  "evn": {
+    "central": "http://central.eks-env12.eks.whbettingengine.com:80",
+    "back": "http://wh-wv.eks-env12.eks.whbettingengine.com:80"
+  },
   "baseUrl": "http://wh-wv.backoffice.eks-env12.eks.whbettingengine.com/",
   "pageLoadTimeout": 100000,
   "defaultCommandTimeout": 5000,

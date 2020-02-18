@@ -1,7 +1,3 @@
-//import '/support/util/randomizer.js'
-
-
-
 describe('Check login in backoffice', () => {
 
     beforeEach(() => {
@@ -15,29 +11,28 @@ describe('Check login in backoffice', () => {
     it('verify that reseve error when thr email is entered incorrect format', () => {
 
         
-         const string = cy.generate_random_string(5)
-
-        cy.log(string)
+         cy.name().then((res) => {
         
         cy.get('[label="Email address"]')
-        .type(string)
-        .should('have.value', "sadasd")
+        .type(res)
+        .should('have.value', res)
          
         cy.get('[type="password"]').focus()
         cy.get('[class="error-message-content"]').contains('Incorrect e-mail address.')
 
         cy.get('[name="email"]').focus().clear()
-        .type(string+"@"+string)
-        .should('have.value', string+"@"+string)
+        .type(res+"@"+res)
+        .should('have.value', res+"@"+res)
          
         cy.get('[type="password"]').focus()
         cy.get('[class="error-message-content"]', {timeout: 1}).contains('Incorrect e-mail address.')
 
     })
+})
 
     it('verify that a trader can login with correct credentials', () => {
 
-        let email = "sdfs@asdas.md"
+        cy.email().then((email) => {
        
         cy.createStaffAccount(email)
 
@@ -51,7 +46,7 @@ describe('Check login in backoffice', () => {
         cy.get('form').submit()
     
     
-
+    })
     })
 
 
