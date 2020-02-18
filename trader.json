@@ -1,13 +1,18 @@
 {
-  "email": "sdfs@asdas.md",
+  "email": "kaiyslowdd@kaiyslowdd.com",
   "surname": "Gedsorginia",
+  "betAuthFilters": null,
   "firstName": "Qsueenie",
   "passwordChangedAt": null,
   "roles": [
-    "trader"
+    "trader",
+    "backoffice-accounts-manager",
+    "customer-accounts-manager",
+    "event-manager"
   ],
   "status": "active",
   "passwordResetToken": null,
+  "betTickerFilters": null,
   "type": "staff",
   "oddsFormat": "american",
   "failedLoginAttempts": 0,
@@ -17,13 +22,13 @@
   "universe": "wh-central",
   "name": "Qsueenie Gedsorginia",
   "cashOutEnabled": true,
-  "url": "http://central.eks-env13.eks.whbettingengine.com/accounts/wh-central/staff/2",
-  "passwordResetTokenUrl": "http://central.eks-env13.eks.whbettingengine.com/accounts/wh-central/staff/password-reset-token",
-  "resetPasswordUrl": "http://central.eks-env13.eks.whbettingengine.com/accounts/wh-central/staff/reset-password",
-  "walletUrl": "http://central.eks-env13.eks.whbettingengine.com/wallets/wh-central/2",
-  "cashOutUrl": "http://central.eks-env13.eks.whbettingengine.com/accounts/wh-central/staff/2/cash-out",
-  "transactionUrl": "http://central.eks-env13.eks.whbettingengine.com/transactions/wh-central/2",
-  "assetFlowsUrl": "http://central.eks-env13.eks.whbettingengine.com/asset-flows/wh-central/2",
-  "statementsUrl": "http://central.eks-env13.eks.whbettingengine.com/statements/wh-central/2",
+  "url": "http://central.eks-env12.eks.whbettingengine.com/accounts/wh-central/staff/2",
+  "passwordResetTokenUrl": "http://central.eks-env12.eks.whbettingengine.com/accounts/wh-central/staff/password-reset-token",
+  "resetPasswordUrl": "http://central.eks-env12.eks.whbettingengine.com/accounts/wh-central/staff/reset-password",
+  "walletUrl": "http://central.eks-env12.eks.whbettingengine.com/wallets/wh-central/2",
+  "cashOutUrl": "http://central.eks-env12.eks.whbettingengine.com/accounts/wh-central/staff/2/cash-out",
+  "transactionUrl": "http://central.eks-env12.eks.whbettingengine.com/transactions/wh-central/2",
+  "assetFlowsUrl": "http://central.eks-env12.eks.whbettingengine.com/asset-flows/wh-central/2",
+  "statementsUrl": "http://central.eks-env12.eks.whbettingengine.com/statements/wh-central/2",
   "revision": 0
 }

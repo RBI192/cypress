@@ -17,6 +17,8 @@
 import './commands'
 import './util/randomizer'
 import './dateCreate/account/createStaffAccount'
+import './dateCreate/account/loginStaff'
+
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
