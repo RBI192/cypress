@@ -1,5 +1,10 @@
 {
-    "devDependencies": {
-        "cypress": "4.0.2"
-    }
+  "devDependencies": {
+    "cypress": "^4.0.2"
+  },
+  "scripts": {
+    "ng": "ng",
+    "cypress:open": "$(npm bin)/cypress open",
+    "cypress:run": "$(npm bin)/cypress run"
+  }
 }
