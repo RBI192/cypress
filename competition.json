@@ -1,5 +1,5 @@
 {
-  "id": "5f91ece0-5258-11ea-9b66-1b05f6452b46",
+  "id": "adece820-525a-11ea-9b66-1b05f6452b46",
   "name": "cevasda",
   "universe": "wh-wv",
   "sport": {
@@ -9,7 +9,7 @@
     "url": "http://wh-wv.eks-env12.eks.whbettingengine.com/operator-sports/wh-wv/football"
   },
   "platformObject": {
-    "id": "5f91ece0-5258-11ea-9b66-1b05f6452b46",
+    "id": "adece820-525a-11ea-9b66-1b05f6452b46",
     "name": "cevasda"
   },
   "feedResponsibilities": [],
@@ -35,15 +35,15 @@
       "europe"
     ]
   },
-  "url": "http://wh-wv.eks-env12.eks.whbettingengine.com/operator-competitions/wh-wv/5f91ece0-5258-11ea-9b66-1b05f6452b46",
+  "url": "http://wh-wv.eks-env12.eks.whbettingengine.com/operator-competitions/wh-wv/adece820-525a-11ea-9b66-1b05f6452b46",
   "eventsUrl": "http://wh-wv.eks-env12.eks.whbettingengine.com/operator-events/wh-wv",
   "grade": {
     "id": "351369596",
     "name": "default",
     "url": "http://wh-wv.eks-env12.eks.whbettingengine.com/grades/wh-wv/football/351369596"
   },
-  "updatedAt": "2020-02-18T14:10:10.229Z",
-  "createdAt": "2020-02-18T14:10:10.229Z",
+  "updatedAt": "2020-02-18T14:26:40.681Z",
+  "createdAt": "2020-02-18T14:26:40.681Z",
   "displayOrder": 0,
   "active": true,
   "display": true,

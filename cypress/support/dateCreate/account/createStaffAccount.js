@@ -5,12 +5,12 @@ Cypress.Commands.add('createStaffAccount', (email) => {
 function receiveCredentionlStaff(email){
    
     cy.request(
-        'POST', 
-        'http://central.eks-env12.eks.whbettingengine.com:80/sessions/wh-wv/program',
+        'POST',
+        'http://wh-test.eks-env02.eks.whbettingengine.com:80/sessions/wh-test/program',
      '{"username":"website","password":"!2hmTSuFPmW8xK?m","grant_type":"password"}')
      .then((respons) => {
         expect(respons.status).to.eq(201)
-        cy.writeFile('program.json', respons.body)
+        cy.writeFile('cypress/fixtures/program.json', respons.body)
         createStaff("bearer " + respons.body.access_token, email)
      })
 }
@@ -19,7 +19,7 @@ function createStaff(tocken, email){
 
     cy.request({
         method: 'Post',
-        url: 'http://central.eks-env12.eks.whbettingengine.com:80/accounts/wh-central/staff',
+        url: 'http://wh-test.eks-env02.eks.whbettingengine.com:80/accounts/wh-test/staff',
         headers: {
             'Content-Type': 'application/json',
             'Authorization': tocken

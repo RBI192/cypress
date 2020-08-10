@@ -1,17 +1,17 @@
 {
-  "id": "5fa9baa0-5258-11ea-9b66-1b05f6452b46",
+  "id": "ae01f6c0-525a-11ea-9b66-1b05f6452b46",
   "sport": {
     "id": "football",
     "name": "Soccer",
     "displayOrder": 0
   },
   "platformObject": {
-    "id": "5fa9baa0-5258-11ea-9b66-1b05f6452b46",
+    "id": "ae01f6c0-525a-11ea-9b66-1b05f6452b46",
     "name": "Karole vs Angelika"
   },
   "feedData": {},
   "competition": {
-    "id": "5f91ece0-5258-11ea-9b66-1b05f6452b46",
+    "id": "adece820-525a-11ea-9b66-1b05f6452b46",
     "name": "cevasda",
     "displayOrder": 0
   },

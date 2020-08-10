@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc848465-2f4e-4979-b184-9561dede15b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/competition.json" beforeDir="false" afterPath="$PROJECT_DIR$/competition.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/fixtures/program.json" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/fixtures/program.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/WH/bettingTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/WH/bettingTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/dateCreate/account/createStaffAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/dateCreate/account/createStaffAccount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event.json" beforeDir="false" afterPath="$PROJECT_DIR$/event.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npm-debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/program.json" beforeDir="false" afterPath="$PROJECT_DIR$/program.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trader.json" beforeDir="false" afterPath="$PROJECT_DIR$/trader.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fu35ONPblSaDuGD9Oytq0DkPSA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc848465-2f4e-4979-b184-9561dede15b8" name="Default Changelist" comment="" />
+      <created>1597053965445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597053965445</updated>
+      <workItem from="1597053966595" duration="211000" />
+      <workItem from="1597054185044" duration="474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="680" y="430" width="540" height="170" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597054165548">
+      <screen x="0" y="25" width="1920" height="1018" />
+    </state>
+    <state x="680" y="430" width="540" height="170" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.0.1920.1080/3840.0.1920.1080/0.25.1920.1018@0.25.1920.1018" timestamp="1597054165548" />
+  </component>
+</project>

@@ -21,6 +21,7 @@ import './dateCreate/account/loginStaff'
 import './dateCreate/trading/competitionCreate'
 import './dateCreate/trading/eventCreate'
 import './dateCreate/trading/eventFullCreateApi'
+import './dateCreate/account/creareCustomer'
 
 
 // Alternatively you can use CommonJS syntax:
